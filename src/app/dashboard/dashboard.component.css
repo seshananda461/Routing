@@ -1,0 +1,78 @@
+.dashboard
+{
+    padding:30px;
+}
+.dashboard-style
+
+{
+    background-color:#f2f2f2;
+    padding:30px;
+}
+.student {
+    padding: 24px 12px 5px 14px;
+    margin-left: 30px;
+    margin-right: 27px;
+    border-radius: 19px;
+    background-color:orangered;
+}
+.student1
+{
+    color:white;
+   
+}
+.student2
+{
+    color:white;
+    font-size:50px;
+}
+.teacher {
+    padding: 24px 12px 5px 14px;
+    margin-left: 30px;
+    margin-right: 27px;
+    border-radius: 19px;
+    background-color:orange;
+}
+.teacher1
+{
+    color:white;
+   
+}
+.teacher2
+{
+    color:white;
+    font-size:50px;
+}
+.parent {
+    padding: 24px 12px 5px 14px;
+    margin-left: 30px;
+    margin-right: 27px;
+    border-radius: 19px;
+    background-color:#ffc000;
+}
+.parent1
+{
+    color:white;
+   
+}
+.parent2
+{
+    color:white;
+    font-size:50px;
+}
+.class{
+    padding: 24px 12px 5px 14px;
+    margin-left: 30px;
+    margin-right: 27px;
+    border-radius: 19px;
+    background-color:#a7c850;
+}
+.class1
+{
+    color:white;
+   
+}
+.class2
+{
+    color:white;
+    font-size:50px;
+}
